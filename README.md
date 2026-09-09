@@ -12,4 +12,3 @@
 git copy https://github.com/levkorr/University_Lectures_MAI
 ```
 
-
